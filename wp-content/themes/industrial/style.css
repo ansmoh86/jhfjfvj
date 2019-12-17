@@ -19327,3 +19327,25 @@ h2 > .headline {
         color: white !important;
     }
 }
+
+.wp-page-indicator .circles {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.wpforms-page-indicator-page {
+    margin: 10px 6px;
+}
+
+.wpforms-field-container {
+    text-align: left !important;
+}
+
+.wpforms-clear .wpforms-pagebreak-center {
+    text-align: center !important;
+}
+
+.wpforms-page-button .wpforms-page-prev {
+    margin: 5px!important;
+}
