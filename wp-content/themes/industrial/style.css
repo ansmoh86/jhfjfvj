@@ -19328,28 +19328,67 @@ h2 > .headline {
     }
 }
 
-.wpforms-page-indicator .circles {
+.wpforms-page-indicator {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    max-width: 700px;
+    margin: 0 auto 20px auto !important;
 }
 
-.wpforms-page-indicator-page {
-    margin: 10px 6px !important;
+.wpforms-page {
+    text-align: left !important;
+    max-width: 700px;
+    margin: 0 auto;
 }
 
-input {
+.wpforms-field-label {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.wpforms-page input {
     margin: 0 auto !important;
+    margin: 5px 0 !important;
+    max-width: 100%;
+    font-size: 14px;
 }
 
-select {
+.wpforms-page select {
     margin: 0 auto !important;
+    margin: 5px 0 !important;
+    max-width: 100%;
+    font-size: 14px;
 }
 
-.wpforms-field-row {
-    margin: 0 auto !important;
+.wpforms-field-required {
+    margin: 5px 0;
+}
+
+.wpforms-field-required > li {
+    display: flex;
+    align-items: center;
+}
+
+.wpforms-field-required > li > input {
+    margin: 2px 10px 0 3px !important;
+}
+
+.wpforms-pagebreak-center {
+    display: flex;
+    justify-content: center;
+}
+
+.wpforms-page .wpforms-field-row {
+    max-width: 100%;
 }
 
 .wpforms-page-button {
     margin: 5px!important;
+    padding: 5px 10px;
+    background-color: rgb(231, 231, 231);
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #555;
+    border-radius: 7px;
+    border: 1px solid #555;
 }
