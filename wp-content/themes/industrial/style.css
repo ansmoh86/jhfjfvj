@@ -19328,24 +19328,28 @@ h2 > .headline {
     }
 }
 
-.wp-page-indicator .circles {
+.wpforms-page-indicator .circles {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
 
 .wpforms-page-indicator-page {
-    margin: 10px 6px;
+    margin: 10px 6px !important;
 }
 
-.wpforms-field-container {
-    text-align: left !important;
+input {
+    margin: 0 auto !important;
 }
 
-.wpforms-clear .wpforms-pagebreak-center {
-    text-align: center !important;
+select {
+    margin: 0 auto !important;
 }
 
-.wpforms-page-button .wpforms-page-prev {
+.wpforms-field-row {
+    margin: 0 auto !important;
+}
+
+.wpforms-page-button {
     margin: 5px!important;
 }
