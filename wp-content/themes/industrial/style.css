@@ -19392,3 +19392,14 @@ h2 > .headline {
     border-radius: 7px;
     border: 1px solid #555;
 }
+
+.wpforms-submit {
+    margin: 5px!important;
+    padding: 5px 10px;
+    background-color: rgb(231, 231, 231);
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #555;
+    border-radius: 7px;
+    border: 1px solid #555;
+}
