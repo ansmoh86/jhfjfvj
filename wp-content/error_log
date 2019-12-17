@@ -1,0 +1,16 @@
+[23-Nov-2019 16:04:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/but65kk7ls2i/ustravel.us.com/wp-content/payment-page.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/but65kk7ls2i/ustravel.us.com/wp-content/payment-page.php on line 7
+[23-Nov-2019 16:04:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/but65kk7ls2i/ustravel.us.com/wp-content/payment-page.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/but65kk7ls2i/ustravel.us.com/wp-content/payment-page.php on line 7
+[23-Nov-2019 16:05:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/but65kk7ls2i/ustravel.us.com/wp-content/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/but65kk7ls2i/ustravel.us.com/wp-content/header.php on line 2
+[23-Nov-2019 16:05:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/but65kk7ls2i/ustravel.us.com/wp-content/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/but65kk7ls2i/ustravel.us.com/wp-content/header.php on line 2

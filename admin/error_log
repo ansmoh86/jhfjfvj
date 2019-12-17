@@ -1,0 +1,15 @@
+[14-Nov-2019 08:55:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/public_html/admin/session.php on line 9
+[14-Nov-2019 09:32:15 UTC] PHP Notice:  Undefined index: lu in /home/but65kk7ls2i/public_html/admin/session.php on line 5
+[14-Nov-2019 09:32:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/public_html/admin/session.php on line 9
+[14-Nov-2019 09:32:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/public_html/admin/session.php on line 9
+[14-Nov-2019 09:38:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/public_html/admin/session.php on line 9
+[14-Nov-2019 09:38:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/public_html/admin/session.php on line 9
+[14-Nov-2019 09:45:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/public_html/admin/session.php on line 9
+[14-Nov-2019 09:46:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/public_html/admin/session.php on line 9
+[14-Nov-2019 09:47:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/public_html/admin/session.php on line 9
+[14-Nov-2019 09:47:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/public_html/admin/session.php on line 9
+[23-Nov-2019 12:18:46 UTC] PHP Notice:  Undefined index: lu in /home/but65kk7ls2i/ustravel.us.com/admin/session.php on line 5
+[23-Nov-2019 12:18:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/ustravel.us.com/admin/session.php on line 9
+[23-Nov-2019 12:19:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/ustravel.us.com/admin/session.php on line 9
+[23-Nov-2019 12:19:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/ustravel.us.com/admin/session.php on line 9
+[23-Nov-2019 12:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/but65kk7ls2i/ustravel.us.com/admin/session.php on line 9

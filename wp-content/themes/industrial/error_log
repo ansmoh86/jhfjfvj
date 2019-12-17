@@ -1,0 +1,8 @@
+[08-Dec-2019 20:35:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/but65kk7ls2i/public_html/wp-content/themes/industrial/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/but65kk7ls2i/public_html/wp-content/themes/industrial/index.php on line 3
+[09-Dec-2019 19:19:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/but65kk7ls2i/public_html/wp-content/themes/industrial/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/but65kk7ls2i/public_html/wp-content/themes/industrial/index.php on line 3
